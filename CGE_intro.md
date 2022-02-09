@@ -1,7 +1,7 @@
 ## Reference materials for building CGE models  
 
 ### ['Intro(Chinese)'](reference/intro.pdf)
-This document literature review breifly introduces CGE models and its pros & cons.       
+This literature review breifly introduces CGE models and its pros & cons.       
 
 ### ['Workflow(BU)'](reference/BU.pdf)
 This is the first item appears in "CGE model in energy" google search, and it's quite helpful.
